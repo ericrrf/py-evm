@@ -22,13 +22,9 @@ easy to digest documentation which can be run as a fully functional mainnet
 node.
 
 In particular Py-EVM aims to:
-
 - be an example implementation of the EVM in one of the most widely used and understood languages, Python.
-
 - deliver the low level APIs for clients to build full or light nodes on top of
-
 - be easy to understand and modifiable
-
 - be highly flexible to support both research as well as alternate use cases like private chains.
 
 ### Trinity
